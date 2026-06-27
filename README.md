@@ -43,6 +43,6 @@ Das Projekt entstand im Rahmen einer universitären Projektarbeit.
 
 ## Build
 
-Entwickelt mit **Visual Studio 2022**.
+Entwickelt mit **Visual Studio 2026**.
 
 ---
